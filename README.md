@@ -1,5 +1,5 @@
 # SevenPrincessShop
-SevenPrincessShop PPT<br/>
+SevenPrincessShop(쇼핑몰) PPT 파일<br/>
 https://github.com/sdhGit/SPS/files/4741443/SPS_PPT.pdf
 
 
