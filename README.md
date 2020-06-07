@@ -1,5 +1,7 @@
 # SevenPrincessShop
 SevenPrincessShop PPT<br/>
+https://github.com/sdhGit/SPS/files/4741443/SPS_PPT.pdf
+
 
 <div>
 <img src="https://user-images.githubusercontent.com/59941840/83961305-c4657680-a8cc-11ea-8ae2-9a160cd778be.PNG" width="90%"></img>
